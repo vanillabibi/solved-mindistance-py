@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-mindistance-py
+<br>
+You should save the solution to this problem in a file called <strong>mindistance.py</strong> if you wish to use the tester program. write a function called <strong>mindistance</strong> that takes a single 2-dimensional list argument as input. Each of the items in this argument list will be a list with 2 numbers representing the x and y location of a point in 2D space. The function must return the 2-element list representing the x and y location of the point that is closest to the origin (x=0, y=0). You can calculate the distance between a point (x,y) and the origin (0,0) with the equation:√x<sup>2</sup>+y<sup>2 route (x square + y square)</sup>
